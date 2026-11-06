@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/CommerceFlow.Hosting.Playground/CommerceFlow.Hosting.Playground.csproj" />
+  </Folder>
   <Folder Name="/src/" />
   <Folder Name="/src/Services/" />
   <Folder Name="/src/Services/Catalog/">
